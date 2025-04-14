@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repocsharp\\SistemaControleFinanceiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3AD8AB-D04C-471B-AE3A-C39E608E3FAF}|SistemaControleFinanceiro\\SistemaControleFinanceiro.csproj|c:\\repocsharp\\sistemacontrolefinanceiro\\sistemacontrolefinanceiro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B3AD8AB-D04C-471B-AE3A-C39E608E3FAF}|SistemaControleFinanceiro\\SistemaControleFinanceiro.csproj|solutionrelative:sistemacontrolefinanceiro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3AD8AB-D04C-471B-AE3A-C39E608E3FAF}|SistemaControleFinanceiro\\SistemaControleFinanceiro.csproj|c:\\repocsharp\\sistemacontrolefinanceiro\\sistemacontrolefinanceiro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B3AD8AB-D04C-471B-AE3A-C39E608E3FAF}|SistemaControleFinanceiro\\SistemaControleFinanceiro.csproj|solutionrelative:sistemacontrolefinanceiro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA19FFFA-AF7F-420D-8B31-817A7714F430}|ENTIDADES\\ENTIDADES.csproj|c:\\repocsharp\\sistemacontrolefinanceiro\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA19FFFA-AF7F-420D-8B31-817A7714F430}|ENTIDADES\\ENTIDADES.csproj|solutionrelative:entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D183C-A00B-4F6B-A0C1-F5896384159E}|NEGOCIOS\\NEGOCIOS.csproj|c:\\repocsharp\\sistemacontrolefinanceiro\\negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D183C-A00B-4F6B-A0C1-F5896384159E}|NEGOCIOS\\NEGOCIOS.csproj|solutionrelative:negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\repocsharp\\SistemaControleFinanceiro\\SistemaControleFinanceiro\\login.cs",
+              "RelativeDocumentMoniker": "SistemaControleFinanceiro\\login.cs",
+              "ToolTip": "C:\\repocsharp\\SistemaControleFinanceiro\\SistemaControleFinanceiro\\login.cs",
+              "RelativeToolTip": "SistemaControleFinanceiro\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T22:58:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\repocsharp\\SistemaControleFinanceiro\\SistemaControleFinanceiro\\login.cs",
+              "RelativeDocumentMoniker": "SistemaControleFinanceiro\\login.cs",
+              "ToolTip": "C:\\repocsharp\\SistemaControleFinanceiro\\SistemaControleFinanceiro\\login.cs [Design]",
+              "RelativeToolTip": "SistemaControleFinanceiro\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:15:36.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\repocsharp\\SistemaControleFinanceiro\\ENTIDADES\\Class1.cs",
+              "RelativeDocumentMoniker": "ENTIDADES\\Class1.cs",
+              "ToolTip": "C:\\repocsharp\\SistemaControleFinanceiro\\ENTIDADES\\Class1.cs",
+              "RelativeToolTip": "ENTIDADES\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:29:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\repocsharp\\SistemaControleFinanceiro\\NEGOCIOS\\Class1.cs",
+              "RelativeDocumentMoniker": "NEGOCIOS\\Class1.cs",
+              "ToolTip": "C:\\repocsharp\\SistemaControleFinanceiro\\NEGOCIOS\\Class1.cs",
+              "RelativeToolTip": "NEGOCIOS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T19:29:20.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.exe.config
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.exe
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\bin\Debug\SistemaControleFinanceiro.pdb
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csproj.AssemblyReference.cache
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.login.resources
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.Properties.Resources.resources
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csproj.GenerateResource.cache
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.csproj.CoreCompileInputs.cache
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.exe
+C:\repocsharp\SistemaControleFinanceiro\SistemaControleFinanceiro\obj\Debug\SistemaControleFinanceiro.pdb
