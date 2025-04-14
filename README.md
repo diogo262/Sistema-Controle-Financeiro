@@ -1,1 +1,1 @@
-# Sistema de Controle Financeiro Pessoal feito em C# com Windows Forms (.NET) para estudos
+# Sistema de Controle Financeiro Pessoal feito em C# com Windows Forms (.NET) para aprendizado e estudos
